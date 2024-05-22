@@ -1,0 +1,39 @@
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csprojAssemblyReference.cache
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\cmsmr2\Desktop\Resources\Useful_Resources\Various_Lectures_and_Tutorials\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csprojAssemblyReference.cache
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Assessment\2021-22 Sep Start\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache
+C:\Users\cmsmr2\Desktop\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+C:\Users\cmsmr2\Desktop\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+C:\Users\cmsmr2\Desktop\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+C:\Users\cmsmr2\Desktop\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+C:\Users\cmsmr2\Desktop\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+C:\Users\cmsmr2\Desktop\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\cmsmr2\Desktop\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csprojAssemblyReference.cache
+C:\Users\cmsmr2\Desktop\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+C:\Users\cmsmr2\Desktop\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+C:\Users\cmsmr2\Desktop\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+C:\Users\cmsmr2\Desktop\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+C:\Users\cmsmr2\Desktop\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\cmsmr2\Desktop\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache

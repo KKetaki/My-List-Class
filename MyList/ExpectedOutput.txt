@@ -1,0 +1,192 @@
+﻿--------------------Test1--------------------
+################# LEARNING #####################
+consider how capacity grows as we add items to System.Collection.Generic.List object
+creating a System.Collection.Generic.List object and adding items to it, printing Count and Capacity
+Adding 'Ali' to list, list content is : Ali
+'list' Count: 1
+'list' Capacity: 4
+Adding 'John' to list, list content is : Ali John
+'list' Count: 2
+'list' Capacity: 4
+Adding 'Helen' to list, list content is : Ali John Helen
+'list' Count: 3
+'list' Capacity: 4
+Adding 'Alex' to list, list content is : Ali John Helen Alex
+'list' Count: 4
+'list' Capacity: 4
+Adding 'Mo' to list, list content is : Ali John Helen Alex Mo
+'list' Count: 5
+'list' Capacity: 8
+#####################################################
+
+############## Testing your implementation ###########
+creating an empty 'names' myList of strings
+Count of empty 'names' myList should be 0: 0
+Capacity of empty 'names' myList should be 0: 0
+adding 5 names to 'names' myList ...
+Adding 'Ali' to 'names' myList, content is : Ali
+Count of 'names' myList should be 1: 1
+Capacity of 'names' myList should be 4: 4
+Adding 'John' to 'names' myList, content is : Ali John
+Count of 'names' myList should be 2: 2
+Capacity of 'names' myList should be 4: 4
+Adding 'Helen' to 'names' myList, content is : Ali John Helen
+Count of 'names' myList should be 3: 3
+Capacity of 'names' myList should be 4: 4
+Adding 'Alex' to 'names' myList, content is : Ali John Helen Alex
+Count of 'names' myList should be 4: 4
+Capacity of 'names' myList should be 4: 4
+Adding 'Mo' to 'names' myList, content is : Ali John Helen Alex Mo
+Count of 'names' myList should be 5: 5
+Capacity of 'names' myList should be 8: 8
+
+clearing the 'names' myList .....
+Content of 'names' myList, should be empty :
+Count of 'names' myList should be 0: 0
+Capacity of 'names' myList should be 8: 8
+
+trimming excess cells in 'names' myList ...
+Count of 'names' myList should be 0: 0
+Capacity of 'names' myList should be 0: 0
+
+--------------------Test2--------------------
+################# LEARNING #####################
+consider how items are inserted into System.Collection.Generic.List object
+creating a System.Collection.Generic.List object and inserting items into it at given indexes, printing items, count and capacity ...
+Content of 'list', should be 'Alex' : Alex
+Count of 'list' should be 1: 1
+
+Content of 'list', should be 'Alex Mo' : Alex Mo
+Count of 'list' should be 2: 2
+
+Content of 'list', should be 'John Alex Mo' : John Alex Mo
+Count of 'list' should be 3: 3
+
+Content of 'list', should be 'Ali John Alex Mo' : Ali John Alex Mo
+Count of 'list' should be 4: 4
+
+Content of 'list', should be 'Ali John Helen Alex Mo' : Ali John Helen Alex Mo
+Count of 'list' should be 5: 5
+
+FAILED Attempt: Attempt to insert into an illegal position, index 5 is available
+inserting 3 more at the end: Alice Hussain Albert at indexes 5,6,and 7 ...
+Content of 'list', should be 'Ali John Helen Alex Mo Alice Hussain Albert' : Ali John Helen Alex Mo Alice Hussain Albert
+Count of 'list' should be 8: 8
+Capacity of 'list' should be 8: 8
+Content of 'list', should be 'Ali John Helen Alex Mo Alice Hussain Albert Hassan' : Ali John Helen Alex Mo Alice Hussain Albert Hassan
+Count of 'list' should be 9: 9
+Capacity of 'list' should be 16: 16
+######################################################
+
+############## Testing your implementation ###########
+creating an empty 'names' myList of strings
+'names' myList should be empty
+'names' myList contents :
+Inserting 5 names into the 'names' myList ...
+'names' myList contents should be 'Alex' : Alex
+'names' myList contents should be 'Alex Mo' : Alex Mo
+'names' myList contents should be 'Alex Mo Basil' : Alex Mo Basil
+'names' myList contents should be 'John Alex Mo Basil' : John Alex Mo Basil
+'names' myList contents should be 'Ali John Alex Mo Basil' : Ali John Alex Mo Basil
+'names' myList contents should be 'Ali John Helen Alex Mo Basil' : Ali John Helen Alex Mo Basil
+'names' myList should contain 'Ali John Helen Alex Mo Basil Mobly' : Ali John Helen Alex Mo Basil Mobly
+Count of 'names' myList should be 7: 7
+Capacity of 'names' myList should be 8: 8
+Attempting to insert at index 8 where index 7 is available ...
+'names' myList should contain 'Ali John Helen Alex Mo Basil Mobly Alice' : Ali John Helen Alex Mo Basil Mobly Alice
+Inserting 3 more at the end: Rupert Hussain Albert ...
+'names' myList should contain 'Ali John Helen Alex Mo Basil Mobly Alice Rupert Hussain Albert' : Ali John Helen Alex Mo Basil Mobly Alice Rupert Hussain Albert
+Count of 'names' myList should be 11: 11
+Capacity of 'names' myList should be 16: 16
+Attempting to insert Hassan at index 8  ...
+Content of 'names' myList , should be 'Ali John Helen Alex Mo Basil Mobly Alice Hassan Rupert Hussain Albert' : Ali John Helen Alex Mo Basil Mobly Alice Hassan Rupert Hussain Albert
+Count of 'names' myList should be 12: 12
+Capacity of 'names' myList should be 16: 16
+Testing method Contains ...
+Content of 'names' myList : Ali John Helen Alex Mo Basil Mobly Alice Hassan Rupert Hussain Albert
+'names' myList contains Mo should return TRUE : True
+'names' myList contains Alice should return TRUE : True
+'names' myList contains Rose should return FALSE : False
+Testing method IndexOf ...
+'names' myList IndexOf Mo should return 4 : 4
+'names' myList IndexOf Alice should return 7 : 7
+'names' myList IndexOf Rose should return -1 : -1
+Removing 3 names from the 'names' myList
+Testing method RemoveAt ...
+Removing from Indexes 1 and 3 respectively ..
+'names' myList should contain 'Ali Helen Alex Basil Mobly Alice Hassan Rupert Hussain Albert' : Ali Helen Alex Basil Mobly Alice Hassan Rupert Hussain Albert
+Testing method Remove ...
+Removing Hussain ...
+Content of 'names' myList should be 'Ali Helen Alex Basil Mobly Alice Hassan Rupert Albert': Ali Helen Alex Basil Mobly Alice Hassan Rupert Albert
+
+--------------------Test3--------------------
+creating a 'names' myList of 5 strings using array
+'names' myList should contain 'Ali John Helen Alex Mo' : Ali John Helen Alex Mo
+testing method Reverse ...
+Reversing 'names' myList ....
+'names' myList should contain 'Mo Alex Helen John Ali' : Mo Alex Helen John Ali
+Testing method ToArray ...
+Dumping the elements of 'names' myList to an array ..
+Arry a2 should print 'Mo Alex Helen John Ali' : Mo Alex Helen John Ali
+Testing method Clear ...
+Clearing the 'names' myList ...
+'names' myList should contain nothing :
+Count of 'names' myList should be 0: 0
+Capacity of 'names' myList should be 8: 8
+Testing method AddRange ...
+Adding the range of elements of the array to the end of the 'names' myList ...
+'names' myList should contain 'Mo Alex Helen John Ali' : Mo Alex Helen John Ali
+
+--------------------Test4--------------------
+creating empty 'names' myList of strings with initial capacity 5
+'names' myList Capacity should be 5 : 5
+inserting 5 names into the 'names' myList ..
+'names' myList should contain 'Ali John Helen Alex Mo' : Ali John Helen Alex Mo
+Testing method Sort ...
+Sorting the 'names' myList ...
+'names' myList should contain 'Alex Ali Helen John Mo' : Alex Ali Helen John Mo
+Performing binary search on 'Ali' should return 1 : 1
+performing binary search on 'Helen' should return 2 : 2
+performing binary search on 'Archibald' should return -1 : -1
+
+--------------------Test5--------------------
+################# LEARNING #####################
+Illegal assignment !
+
+Comparing list1 and list2, both of type System.Collections.Generic.List ...
+'list1' is a list of character : A B C D
+'list2' is a list of character : A B C D
+Testing method Equals ...
+'list1.Equals(list1)' should return TRUE : True
+'list1[0].Equals(list2[0]))' should return TRUE : True
+'list1.Equals(list2)' should return FLASE : False
+#####################################################
+
+############## Testing your implementation ###########
+Developing MyList behavior that changes from System.Collections.Generic.List class
+'names1' is a MyList of string : Ali John Helen Alex Mo
+'names1.Equals(names2)' should return FALSE : False
+'names1' is a MyList of string : Ali John Helen Alex Mo
+'names2' is a MyList of string : Ali John Helen Alex Mo
+'names1.Equals(names1)' should return TRUE : True
+'names1[0].Equals(names2[0]))' should return TRUE : True
+'names1.Equals(names2)' should return TRUE : True
+
+################# LEARNING #####################
+'list1' is a list of character : A B C D
+'list2' is a list of character : A B C D
+'list1 == list2' should return FALSE : False
+'list1 != list2' should return TRUE : True
+#####################################################
+
+############## Testing your implementation ###########
+'names1' is a MyList of string : Ali John Helen Alex Mo
+'names2' is a MyList of string : Ali John Helen Alex Mo
+'names1 == names2' should return TRUE : True
+changing the content of 'names2', they are now ...
+'names1' is a MyList of string : Ali John Helen Alex Mo
+'names2' is a MyList of string : Alice Hussain Albert Hassan Joe
+'names1 != names2' should return TRUE : True
+'names1 + names2' should add content of 'names2' to 'names1' we should have : Ali John Helen Alex Mo Alice Hussain Albert Hassan Joe
+#####################################################
+
